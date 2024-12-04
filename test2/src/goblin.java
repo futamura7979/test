@@ -1,5 +1,5 @@
 public interface goblin{
 	public default void goblind() {
-		System.out.println("インターフェイス2");
+		System.out.println("インターフェイス3");
 	}
 }
